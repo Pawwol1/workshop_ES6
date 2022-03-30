@@ -1,4 +1,5 @@
-Warsztat JavaScript ES6
+Warsztat JavaScript ES6,
+projekt z kursu Coders Lab.
 
 Zadanie do wykonania to utworzenie kalkulatora dziesiętnego, opierając się przy tym na wcześniej utworzonym kalkulatorze binarnym.
 
